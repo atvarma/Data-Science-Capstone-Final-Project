@@ -1,7 +1,7 @@
-## Data Science Capstone: Final Project
+# Data Science Capstone: Final Project
 
 
-# Data Product
+## Data Product
 
 Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
 Does the app load to the point where it can accept input?
@@ -9,7 +9,7 @@ When you type a phrase in the input box do you get a prediction of a single word
 Put five phrases drawn from Twitter or news articles in English leaving out the last word. Did it give a prediction for every one?
 
 
-# Slide Deck
+## Slide Deck
 
 Does the link lead to a 5 slide deck on R Pubs?
 Does the slide deck contain a description of the algorithm used to make the prediction?
